@@ -26,7 +26,7 @@
   <body class="text-center">
     <form class="form-signin">
       <img class="mb-4" src="http://etechsystem.co.kr/images/logo.png" alt="" width="130" height="80">
-      <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+      <h1 class="h3 mb-3 font-weight-normal">ITS team Please sign in</h1>
       <label for="inputEmail" class="sr-only">Email address</label>
       <input type="email" id="inputEmail" class="form-control" placeholder="아이디를 입력해 주세요." required autofocus>
       <label for="inputPassword" class="sr-only">Password</label>
@@ -37,7 +37,8 @@
         </label>
       </div>
       <button class="btn btn-lg btn-primary btn-block" type="submit">로그인</button>
-      <p class="mt-5 mb-3 text-muted">&copy; 2009-2021</p>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">회원가입</button>
+      <p class="mt-5 mb-3 text-muted">&copy; Copyright (c) 2009-2014 etechsystem by. All Right Reserved.</p>
     </form>
   </body>
 </html>
